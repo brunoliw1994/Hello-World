@@ -18,5 +18,4 @@ Programming Language used: Python
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3schools.com](https://www.w3schools.com/)
