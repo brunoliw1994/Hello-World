@@ -4,17 +4,15 @@ Trying to practice and study daily to improve my skills in programming.
 
 The software prints "Hello World!" to the user.
 
-To purpose of this software is to show my skills as a programmer.
+The purpose of this software is to show my skills as a programmer.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/8STm6avZniU?si=1kwsPghlh_ZANiyu)
 
 # Development Environment
 
 Software developed with Visual Studio Code
 
-Programming Language used: Python
+Programming language used: Python
 
 # Useful Websites
 
